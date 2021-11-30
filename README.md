@@ -12,3 +12,4 @@ Multiple requests − As thousands of users can search data simultaneously on a 
 To solve the above-mentioned problems, data structures come to rescue. Data can be organized in a data structure in such a way that all items may not be required to be searched, and the required data can be searched almost instantly.
 
 Informatio is cited from TUtorial point.
+![seamless-pattern-computer-background-numbers-260nw-1410295883](https://user-images.githubusercontent.com/90936436/144038252-c5a3090e-c16d-424e-b13b-0603fd0f1a07.jpg)
